@@ -1,0 +1,246 @@
+[
+  {
+    "id": 1,
+    "question": "Qui a créé Flutter ?",
+    "options": ["Apple", "Google", "Facebook", "Microsoft"],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "Langage principal pour le développement Android ?",
+    "options": ["Java", "Kotlin", "Python", "C++"],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "question": "Système d'exploitation serveur le plus populaire ?",
+    "options": ["Windows Server", "Linux", "macOS", "iOS"],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "Langage pour créer des sites web interactifs ?",
+    "options": ["HTML", "CSS", "JavaScript", "Python"],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "question": "Définition du cloud computing ?",
+    "options": ["Installation de logiciels sur PC", "Accès à des services via internet", "Achat de logiciels physiques", "Création de votre propre serveur"],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "question": "Qu'est-ce que l'intelligence artificielle (IA) ?",
+    "options": ["Pensée humaine", "Logiciel informatique", "Robot humanoïde", "Technologie de science-fiction"],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "question": "Propriété de la blockchain ?",
+    "options": ["Centralisée", "Décentralisée et transparente", "Disque dur", "Cloud"],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "Qu'est-ce que le Big Data ?",
+    "options": ["Gros ordinateur", "Données complexes", "Logiciel d'analyse", "Technologie de stockage de données"],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "Capacité de l'apprentissage automatique ?",
+    "options": ["Tâches répétitives", "Langage humain", "Connexion internet", "Stockage de données"],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "question": "Quelle technologie permet de connecter des objets physiques à internet et de collecter/échanger des données ?",
+    "options": ["Wi-Fi", "Bluetooth", "L'internet des objets (IoT)", "5G"],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "question": "Quel est le langage de programmation le plus utilisé pour le développement web ?",
+    "options": ["Java", "C++", "Python", "JavaScript"],
+    "answer": 3
+  },
+  {
+    "id": 12,
+    "question": "Quel est le principal langage utilisé pour le développement de logiciels embarqués ?",
+    "options": ["Python", "C", "Java", "Assembly"],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "question": "Quel protocole est utilisé pour envoyer et recevoir des courriers électroniques ?",
+    "options": ["HTTP", "FTP", "SMTP", "SSH"],
+    "answer": 2
+  },
+  {
+    "id": 14,
+    "question": "Quel est le principal système de gestion de base de données relationnelle ?",
+    "options": ["MongoDB", "SQLite", "MySQL", "PostgreSQL"],
+    "answer": 2
+  },
+  {
+    "id": 15,
+    "question": "Quelle est la devise de Python ?",
+    "options": ["In God We Trust", "Benevolent Dictator for Life", "Hello, World!", "Guido van Rossum"],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "question": "Quel est le système d'exploitation mobile développé par Apple ?",
+    "options": ["Android", "iOS", "Windows Phone", "BlackBerry OS"],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "question": "Qu'est-ce que CSS signifie ?",
+    "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "question": "Qu'est-ce que l'architecture MVC dans le développement web ?",
+    "options": ["Modular View Controller", "Model View Controller", "Multiple View Configuration", "Model View Configuration"],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "question": "Qu'est-ce que signifie HTTP ?",
+    "options": ["Hypertext Transfer Protocol", "Hypertext Transfer Program", "Hypertext Test Protocol", "Hypertext Terminal Protocol"],
+    "answer": 0
+  },
+  {
+    "id": 20,
+    "question": "Quelle est la base de données la plus utilisée pour les applications web ?",
+    "options": ["SQLite", "MySQL", "MongoDB", "PostgreSQL"],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "Quelle est la dernière version stable de HTML ?",
+    "options": ["HTML4", "HTML5", "XHTML", "XML"],
+    "answer": 1
+  },
+  {
+    "id": 22,
+    "question": "Quelle est la méthode la plus sûre pour stocker des mots de passe dans une base de données ?",
+    "options": ["En clair", "Cryptage simple", "Hachage avec sel", "Cryptage symétrique"],
+    "answer": 2
+  },
+  {
+    "id": 23,
+    "question": "Qu'est-ce que signifie SQL ?",
+    "options": ["Structured Language", "Sequential Language", "Structured Query Language", "Sequential Query Language"],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "question": "Quelle est la différence entre un serveur HTTP et un serveur FTP ?",
+    "options": ["Le protocole utilisé", "Le nombre de connexions", "La sécurité", "Le type de média transféré"],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "question": "Quel est le langage de programmation utilisé principalement pour le développement de jeux vidéo ?",
+    "options": ["Java", "C#", "C++", "Python"],
+    "answer": 2
+  },
+  {
+    "id": 26,
+    "question": "Qu'est-ce que signifie CSS ?",
+    "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "question": "Quel est le principal langage utilisé pour les scripts côté serveur dans le développement web ?",
+    "options": ["Java", "JavaScript", "C#", "PHP"],
+    "answer": 3
+  },
+  {
+    "id": 28,
+    "question": "Quel langage est utilisé pour manipuler le contenu et la présentation des pages web ?",
+    "options": ["HTML", "CSS", "JavaScript", "PHP"],
+    "answer": 2
+  },
+  {
+    "id": 29,
+    "question": "Quel est le protocole utilisé pour accéder à des sites web sécurisés (HTTPS) ?",
+    "options": ["HTTP", "FTP", "SSH", "SSL/TLS"],
+    "answer": 3
+  },
+  {
+    "id": 30,
+    "question": "Quel est le principe de l'architecture REST dans le développement d'API web ?",
+    "options": ["Architecture orientée services", "Approche orientée ressources", "Architecture orientée composants", "Approche orientée documents"],
+    "answer": 1
+  },
+  {
+    "id": 31,
+    "question": "Quelle technologie est utilisée pour créer des applications multiplateformes ?",
+    "options": ["Java", "Swift", "Flutter", "Objective-C"],
+    "answer": 2
+  },
+  {
+    "id": 32,
+    "question": "Quel est le rôle d'un système de gestion de versions (VCS) dans le développement logiciel ?",
+    "options": ["Gérer les versions des logiciels", "Gérer les versions des documents", "Faciliter la collaboration", "Automatiser les tests"],
+    "answer": 2
+  },
+  {
+    "id": 33,
+    "question": "Quel est le principe de l'approche agile dans le développement logiciel ?",
+    "options": ["Planification exhaustive", "Adaptabilité aux changements", "Processus strict", "Documentation complète"],
+    "answer": 1
+  },
+ 
+  {
+    "id": 35,
+    "question": "Qu'est-ce que le modèle OSI dans les réseaux informatiques ?",
+    "options": ["Organisation de Systèmes Internationaux", "Open System Interconnection", "Organisation de Sécurité Internet", "Open Source Initiative"],
+    "answer": 1
+  },
+  
+  {
+    "id": 37,
+    "question": "Quel est le langage utilisé pour la programmation de microcontrôleurs ?",
+    "options": ["C#", "Java", "C", "Python"],
+    "answer": 2
+  },
+  {
+    "id": 38,
+    "question": "Quel est le principal langage utilisé pour le développement de logiciels de bureau sous Windows ?",
+    "options": ["Java", "C++", "C#", "Python"],
+    "answer": 2
+  },
+  {
+    "id": 39,
+    "question": "Qu'est-ce que l'analyse de données (Data Analytics) ?",
+    "options": ["Analyse de la structure des données", "Analyse de la sécurité des données", "Analyse des performances des logiciels", "Analyse des données pour en tirer des informations utiles"],
+    "answer": 3
+  },
+  {
+    "id": 40,
+    "question": "Quel est le principe de la programmation orientée objet ?",
+    "options": ["Approche basée sur les procédures", "Approche basée sur les fonctions", "Approche basée sur les objets", "Approche basée sur les modules"],
+    "answer": 2
+  },
+  {
+    "id": 41,
+    "question": "Qu'est-ce que le modèle MVC dans le développement web ?",
+    "options": ["Modular View Configuration", "Model View Controller", "Multiple View Controller", "Model View Configuration"],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "Qu'est-ce qu'un serveur DNS ?",
+    "options": ["Serveur de stockage de données", "Serveur de sécurité réseau", "Serveur de noms de domaine", "Serveur de sauvegarde"],
+    "answer": 2
+  }
+ 
+
+  ]
